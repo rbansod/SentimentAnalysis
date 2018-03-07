@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/BayesClassifier.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Classification.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Classifier.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/IFeatureProbability.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/RunnableExample.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/datasets" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/loremipsum.txt" charset="windows-1252" />
+  </component>
+</project>
